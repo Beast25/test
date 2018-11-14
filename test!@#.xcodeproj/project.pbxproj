@@ -15,6 +15,7 @@
 		6F189D46219BF6AC00A1A060 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F189D44219BF6AC00A1A060 /* LaunchScreen.storyboard */; };
 		6F189D51219BF6AC00A1A060 /* test___Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F189D50219BF6AC00A1A060 /* test___Tests.swift */; };
 		6F189D5C219BF6AC00A1A060 /* test___UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F189D5B219BF6AC00A1A060 /* test___UITests.swift */; };
+		6F189D6A219BF97A00A1A060 /* hey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F189D69219BF97A00A1A060 /* hey.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6F189D57219BF6AC00A1A060 /* test!@#UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "test!@#UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F189D5B219BF6AC00A1A060 /* test___UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "test___UITests.swift"; sourceTree = "<group>"; };
 		6F189D5D219BF6AC00A1A060 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F189D69219BF97A00A1A060 /* hey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hey.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6F189D44219BF6AC00A1A060 /* LaunchScreen.storyboard */,
 				6F189D47219BF6AC00A1A060 /* Info.plist */,
 				6F189D3F219BF6A000A1A060 /* test___.xcdatamodeld */,
+				6F189D69219BF97A00A1A060 /* hey.swift */,
 			);
 			path = "test!@#";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				6F189D3B219BF6A000A1A060 /* ViewController.swift in Sources */,
 				6F189D39219BF6A000A1A060 /* AppDelegate.swift in Sources */,
+				6F189D6A219BF97A00A1A060 /* hey.swift in Sources */,
 				6F189D41219BF6A000A1A060 /* test___.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
